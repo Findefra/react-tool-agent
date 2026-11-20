@@ -1,0 +1,6 @@
+# Core – this agent runs with pure Python (no heavy LLM SDK required for the demo)
+# Optional upgrades for production:
+# openai>=1.0.0
+# anthropic>=0.25.0
+# langchain>=0.2.0
+# langsmith>=0.1.0
